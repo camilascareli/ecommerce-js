@@ -1,0 +1,8 @@
+site_name: E-commerce Fullstack
+theme:
+  name: material
+  language: pt-BR
+nav:
+  - Do Café à Arte: home.md
+  - Visão de Produto e Projeto: visao.md
+  - Solução proposta: solucao.md
