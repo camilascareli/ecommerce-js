@@ -1,4 +1,5 @@
 site_name: E-commerce Fullstack
+site_url: https://camilascareli.github.io/ecommerce-js/
 theme:
   name: material
   language: pt-BR
